@@ -1,6 +1,6 @@
 @import url('https://fonts.cdnfonts.com/css/bubble-letters');
 
-.App {
+.frontpage {
   text-align: center;
 }
 
@@ -43,7 +43,7 @@
 
 }
 
-#infmax {
+#infbox {
   font-family: Gill Sans;
   color: #006400;
   border-radius: 25px;
